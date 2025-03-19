@@ -43,8 +43,8 @@ Acesse a aplicação em funcionamento: [Amigo Secreto App](https://amigosecreto-
 
 O algoritmo de sorteio garante que:
 - Cada pessoa recebe exatamente um amigo secreto
-- Ninguém será sorteado como seu próprio amigo secreto
 - A distribuição é aleatória e justa
+- <s>Ninguém será sorteado como seu próprio amigo secreto</s> (Em desenvolvimento).
 
 ## 👥 Como Contribuir
 

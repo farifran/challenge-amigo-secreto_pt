@@ -3,7 +3,7 @@
 
 Um aplicativo web simples para sorteio de amigo secreto, desenvolvido como parte do Challenger ONE.
 
-![Banner Amigo Secreto]([(https://drive.google.com/uc?id=1b62LFtOuwkhhERnHYfDri-GUiFuOtATk)])
+![Imagem dasoluçao](https://drive.google.com/uc?id=1b62LFtOuwkhhERnHYfDri-GUiFuOtATk)
 
 ## 📋 Sobre o Projeto
 
@@ -11,7 +11,10 @@ O Amigo Secreto é uma aplicação que permite organizar sorteios de amigo secre
 
 ### ✨ Demonstração
 
-![Demonstração da aplicação](https://drive.google.com/file/d/1hv6BWgTKMlKZ1K8HR2Eb75g5G-KNiAx1/view?usp=drivesdk)
+
+<p align="center">
+<img width="460" height="300" src="assets/to_readme/Error.png">
+</p>
 
 ### 🔗 Deploy
 
@@ -74,3 +77,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 Desenvolvido com ❤️ como parte do Challenger ONE.
+
+
+---

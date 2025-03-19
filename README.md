@@ -38,7 +38,18 @@ Acesse a aplicação em funcionamento: [Amigo Secreto App](https://amigosecreto-
 
 ### O que são os Challenges ONE?
 
-É uma forma de implementar o Challenge Based Learning (aprendizado baseado em desafios) que a Apple ajudou a criar. Através deste método, você se compromete a resolver um problema, investiga soluções utilizando cursos, conteúdos, palestras ou conhecimentos prévios e, finalmente, desenvolve e implementa seu projeto. Durante todo o processo, você pode comentar e ajudar em projetos de outros estudantes, promovendo uma comunidade colaborativa de aprendizado.
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="justificate" valign="top">
+      <br><br>É uma forma de implementar o Challenge Based Learning (aprendizado baseado em desafios) que a Apple ajudou a criar. Através deste método, você se compromete a resolver um problema,     investiga soluções utilizando cursos, conteúdos, palestras ou conhecimentos prévios e, finalmente, desenvolve e implementa seu projeto. Durante todo o processo, você pode comentar e ajudar em projetos de outros estudantes, promovendo uma comunidade colaborativa de aprendizado.
+    </td>
+    <td align="center" valign="top" width="50%">
+       <img widgt="300" height="300" src="https://github.com/user-attachments/assets/100a2871-1fb2-4924-a99a-090325e4b75a" alt="ONE - Oracle Next Education">     
+    </td>
+  </tr>
+</table>
+</div>
 
 ### Como funciona o sorteio?
 

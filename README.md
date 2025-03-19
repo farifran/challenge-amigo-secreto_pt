@@ -50,7 +50,7 @@ Se você encontrar um bug ou tiver uma sugestão de melhoria, por favor, abra um
 ### Autores
 ------------
 
-* [Seu Nome](https://github.com/seu-username)
+* Rafael Farias (https://github.com/seu-username)
 
 ### Histórico de Versões
 -------------------------

@@ -1,63 +1,77 @@
 
+# 🎁 Amigo Secreto
 
-# Amigo Secreto
-================
+Um aplicativo web simples para sorteio de amigo secreto, desenvolvido como parte do Challenger ONE.
 
-## Descrição
----------------
+![Banner Amigo Secreto]([https://github.com/seu-usuario/amigo-secreto/raw/main/assets/banner.png](https://drive.google.com/file/d/1b62LFtOuwkhhERnHYfDri-GUiFuOtATk/view?usp=drivesdk))
 
-Amigo Secreto é um jogo simples que sorteia um amigo secreto aleatoriamente de uma lista de nomes. O jogo é desenvolvido em JavaScript, HTML e CSS.
+## 📋 Sobre o Projeto
 
-### Funcionalidades
--------------------
+O Amigo Secreto é uma aplicação que permite organizar sorteios de amigo secreto de forma rápida e divertida. Basta digitar os nomes dos participantes, e o sistema fará o sorteio automaticamente, garantindo que ninguém tire a si mesmo.
 
-* Adicione nomes à lista de amigos
-* Validação de nomes (apenas letras e espaços)
-* Sorteie um amigo secreto aleatoriamente
-* Exiba o resultado em uma lista HTML
+### ✨ Demonstração
 
-### Como Jogar
---------------
+![Demonstração da aplicação](https://github.com/seu-usuario/amigo-secreto/raw/main/assets/demo.gif)
 
-1. Adicione nomes à lista de amigos digitando o nome no campo de input e clicando no botão "Adicionar"
-2. Verifique se o nome foi adicionado corretamente à lista
-3. Clique no botão "Sortear" para sortear um amigo secreto aleatoriamente
-4. O resultado será exibido em uma lista HTML abaixo do botão "Sortear"
+### 🔗 Deploy
 
-### Tecnologias Utilizadas
--------------------------
+Acesse a aplicação em funcionamento: [Amigo Secreto App](https://amigosecreto-blush.vercel.app)
 
-* JavaScript (ECMAScript 6+)
-* HTML5
-* CSS3
+## 🚀 Funcionalidades
 
-### Requisitos
---------------
+- Adição e remoção de participantes na lista
+- Validação para evitar nomes duplicados ou vazios
+- Sorteio aleatório garantindo que ninguém tire o próprio nome
+- Interface responsiva e amigável
+- Animação de sorteio para uma experiência mais interativa
+- Opção de compartilhar o resultado por e-mail ou WhatsApp
 
-* Navegador web moderno (Google Chrome, Mozilla Firefox, etc.)
-* Conexão à internet (opcional)
+## 🛠️ Tecnologias Utilizadas
 
-### Licença
-------------
+- HTML5
+- CSS3
+- JavaScript
+- LocalStorage para persistência de dados
 
-Este jogo é distribuído sob a licença MIT. Você é livre para usar, modificar e distribuir o código-fonte.
+## 🧰 Como Executar Localmente
 
-### Contribuições
------------------
+1. Clone este repositório:
+```bash
+git clone https://github.com/farifran/challenge-amigo-secreto_pt.git
+```
 
-Se você encontrar um bug ou tiver uma sugestão de melhoria, por favor, abra uma issue no repositório do jogo. Contribuições são bem-vindas!
+2. Navegue até a pasta do projeto:
+```bash
+cd amigo-secreto
+```
 
-### Autores
-------------
+3. Abra o arquivo `index.html` em seu navegador preferido.
 
-* Rafael Farias (https://github.com/seu-username)
+## 🤔 Perguntas Frequentes
 
-### Histórico de Versões
--------------------------
+### O que são os Challenges ONE?
 
-* v1.0.0 - Lançamento inicial do jogo
+É uma forma de implementar o Challenge Based Learning (aprendizado baseado em desafios) que a Apple ajudou a criar. Através deste método, você se compromete a resolver um problema, investiga soluções utilizando cursos, conteúdos, palestras ou conhecimentos prévios e, finalmente, desenvolve e implementa seu projeto. Durante todo o processo, você pode comentar e ajudar em projetos de outros estudantes, promovendo uma comunidade colaborativa de aprendizado.
 
-### Contato
-------------
+### Como funciona o sorteio?
 
-Se você tiver alguma dúvida ou precisar de ajuda, por favor, entre em contato comigo através do meu perfil no GitHub.
+O algoritmo de sorteio garante que:
+- Cada pessoa recebe exatamente um amigo secreto
+- Ninguém será sorteado como seu próprio amigo secreto
+- A distribuição é aleatória e justa
+
+## 👥 Como Contribuir
+
+1. Faça um fork do projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
+3. Faça commit das suas alterações (`git commit -m 'Adiciona nova funcionalidade'`)
+4. Faça push para a branch (`git push origin feature/nova-funcionalidade`)
+5. Abra um Pull Request
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Desenvolvido com ❤️ como parte do Challenger ONE.

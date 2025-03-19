@@ -11,7 +11,7 @@ O Amigo Secreto é uma aplicação que permite organizar sorteios de amigo secre
 
 ### ✨ Demonstração
 
-![Demonstração da aplicação](https://github.com/seu-usuario/amigo-secreto/raw/main/assets/demo.gif)
+![Demonstração da aplicação](https://drive.google.com/file/d/1hv6BWgTKMlKZ1K8HR2Eb75g5G-KNiAx1/view?usp=drivesdk)
 
 ### 🔗 Deploy
 
@@ -31,7 +31,6 @@ Acesse a aplicação em funcionamento: [Amigo Secreto App](https://amigosecreto-
 - HTML5
 - CSS3
 - JavaScript
-- LocalStorage para persistência de dados
 
 ## 🧰 Como Executar Localmente
 

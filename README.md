@@ -33,20 +33,6 @@ Acesse a aplicação em funcionamento: [Amigo Secreto App](https://amigosecreto-
 - CSS3
 - JavaScript
 
-## 🧰 Como Executar Localmente
-
-1. Clone este repositório:
-```bash
-git clone https://github.com/farifran/challenge-amigo-secreto_pt.git
-```
-
-2. Navegue até a pasta do projeto:
-```bash
-cd amigo-secreto
-```
-
-3. Abra o arquivo `index.html` em seu navegador preferido.
-
 ## 🤔 Perguntas Frequentes
 
 ### O que são os Challenges ONE?

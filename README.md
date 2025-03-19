@@ -7,7 +7,7 @@ Um aplicativo web simples para sorteio de amigo secreto, desenvolvido como parte
 
 ## 📋 Sobre o Projeto
 
-O Amigo Secreto é uma aplicação que permite organizar sorteios de amigo secreto de forma rápida e divertida. Basta digitar os nomes dos participantes, e o sistema fará o sorteio automaticamente, garantindo que ninguém tire a si mesmo.
+O Amigo Secreto é uma aplicação que permite organizar sorteios de amigo secreto de forma rápida e divertida. Basta digitar os nomes dos participantes, e o sistema fará o sorteio automaticamente.
 
 ### ✨ Demonstração
 

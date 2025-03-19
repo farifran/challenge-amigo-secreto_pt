@@ -11,10 +11,8 @@ O Amigo Secreto é uma aplicação que permite organizar sorteios de amigo secre
 
 ### ✨ Demonstração
 
+![Diseño sin título 3](https://github.com/user-attachments/assets/842fc838-4db1-4387-a61b-1a1ebe27797f)
 
-<p align="center">
-<img width="460" height="300" src="assets/to_readme/jogo.png">
-</p>
 
 ### 🔗 Deploy
 

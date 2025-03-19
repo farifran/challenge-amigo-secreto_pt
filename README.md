@@ -3,7 +3,7 @@
 
 Um aplicativo web simples para sorteio de amigo secreto, desenvolvido como parte do Challenger ONE.
 
-![Banner Amigo Secreto]([(https://drive.google.com/file/d/1b62LFtOuwkhhERnHYfDri-GUiFuOtATk/view?usp=drivesdk)])
+![Banner Amigo Secreto]([(https://drive.google.com/uc?id=1b62LFtOuwkhhERnHYfDri-GUiFuOtATk)])
 
 ## 📋 Sobre o Projeto
 

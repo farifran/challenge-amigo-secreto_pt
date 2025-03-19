@@ -23,11 +23,11 @@ Acesse a aplicação em funcionamento: [Amigo Secreto App](https://amigosecreto-
 ## 🚀 Funcionalidades
 
 - Adição e remoção de participantes na lista
-- Validação para evitar nomes duplicados ou vazios
+- Validação para evitar nomes com carateres especiais, numeros ou vazios
 - Sorteio aleatório garantindo que ninguém tire o próprio nome
 - Interface responsiva e amigável
-- Animação de sorteio para uma experiência mais interativa
-- Opção de compartilhar o resultado por e-mail ou WhatsApp
+- Animação de sorteio para uma experiência mais interativa (por implementar)
+- Opção de compartilhar o resultado por e-mail ou WhatsApp (por implementar)
 
 ## 🛠️ Tecnologias Utilizadas
 

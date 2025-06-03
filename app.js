@@ -48,5 +48,28 @@ function sortearAmigo(){
 
     let sorteadoIndex = Math.floor(Math.random() * potentialTargets.length);
     let nomeSorteado = potentialTargets[sorteadoIndex];
-    document.getElementById('resultado').innerHTML = `<li>${nomeSorteado}</li>`;
+
+    let resultadoElement = document.getElementById('resultado');
+    resultadoElement.innerHTML = ''; // Clear previous results
+
+    // Disable the sortear button
+    let sortearButton = document.querySelector('.button-draw');
+    if (sortearButton) {
+        sortearButton.disabled = true;
+    }
+
+    let currentIndex = 0;
+    const animationInterval = setInterval(() => {
+        resultadoElement.innerHTML = `<li>${potentialTargets[currentIndex]}</li>`;
+        currentIndex = (currentIndex + 1) % potentialTargets.length;
+    }, 100);
+
+    setTimeout(() => {
+        clearInterval(animationInterval);
+        resultadoElement.innerHTML = `<li class="final-result">${nomeSorteado}</li>`;
+        // Re-enable the sortear button
+        if (sortearButton) {
+            sortearButton.disabled = false;
+        }
+    }, 3000); // Animation duration: 3 seconds
 }

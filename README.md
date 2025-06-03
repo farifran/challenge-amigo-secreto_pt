@@ -1,6 +1,6 @@
 
 # 🎁 Amigo Secreto
-![Badge de Versão](http://img.shields.io/static/v1?label=STATUS&message=VERSÃO:%201.O&color=GREEN&style=for-the-badge)
+![Badge de Versão](http://img.shields.io/static/v1?label=STATUS&message=VERSÃO:%201.3&color=GREEN&style=for-the-badge)
 
 Um aplicativo web simples para sorteio de amigo secreto, desenvolvido como parte do Challenger ONE.
 
